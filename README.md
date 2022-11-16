@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simococce02
 - 👀 I’m interested in IT Technology
-- 🌱 I’m currently learning Information Engineering at the POLIMI
+- 🌱 I’m currently learning IT Technology at the UNIMI in Milan
 - 💞️ I’m looking to collaborate on myself
 - 😎 I don't know what to write so I use the original GitHub's template
 
